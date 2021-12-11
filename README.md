@@ -1,6 +1,6 @@
 
 # MotionLayout 
-  is a library that lets you add rich motion into your Android app.
+ - is a library that lets you add rich motion into your Android app.
   It's based upon ConstraintLayout, and lets you animate 
   anything that you can build using ConstraintLayout.
 
@@ -15,6 +15,6 @@
 
 # Reference 
 
-https://developer.android.com/codelabs/motion-layout#11
+- https://developer.android.com/codelabs/motion-layout#11
 
 
